@@ -1,0 +1,37 @@
+---
+title: "Assignments and Grading"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+#Assignments and Grading
+
+This course has midterm and final assessments, each of which is worth 150 points.
+
+Additionally, students will complete the following assignments designed to help them achieve the course goals:
+
+* Course survey and initial PDF submission: 25 points
+* Essay 1: 150 points
+* Essay 2: 150 points
+* Article review: 150 points
+* Annotated bibliography: 125 points
+* Discussion question submission and leadership: 100 points
+
+That makes for a total of 1000 points available for the semester. Final grades will be calculated as follows:
+
+* A = 930 – 1000
+*  A- = 900 – 929
+* B+ = 880 – 899
+* B = 830 – 879
+* B- = 800 – 829
+* C+ = 780 – 799
+* C = 730 – 779
+* C- = 700 – 729
+* D = 600 – 699
+* F = \< 600
+
+*Please note that no extra credit is available in this course.*
