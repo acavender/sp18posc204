@@ -1,0 +1,53 @@
+---
+title: "Resources"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+# Miscellaneous resources
+
+## Evaluating web resources
+
+Kent State University has an excellent [list of criteria](http://www.library.kent.edu/criteria-evaluating-web-resources) for evaluating resources found on the open web.
+
+## Reference managers
+
+A reference manager can be an indispensable tool for managing your research information. It can help you keep track of your sources and your notes, and makes formatting your citations and reference list a much simpler task than it might otherwise be.
+
+Below is a list of the best known, most widely used reference managers. I encourage you to experiment with one or more of them, and to find one that works well for your needs and budget.
+
+* [Zotero](https://www.zotero.org) (Windows, Mac, and Linux)
+* [Paperpile](https://paperpile.com) (works with the Chrome browser, and integrates well with Google Documents; unlike most of the other reference managers in this list, Paperpile works on a Chromebook)
+* [Mendeley](https://www.mendeley.com) (Windows, Mac, and Linux)
+* EndNote Web (available to all Saint Mary’s students at no charge; see the [library’s announcement](https://www.saintmarys.edu/library/stories/web-science-and-endnote)) 
+
+Zotero and Mendeley are free (you can purchase additional storage space if you have a large library). Paperpile is $2.99/month (billed annually) for an academic license (it offers a free trial, so you can see how it meshes with your workflow before making a decision). 
+
+## Keeping form separate from content: Resources for writing with Markdown
+
+* [Markdown](https://daringfireball.net/projects/markdown/) is a really useful (and simple!) markup language for writing documents that can quickly and easily be converted to formats such as Word, PDF, or HTML. Any text editor will do for writing in Markdown, and you already have one on your computer (TextEdit if you’re a Mac user, or Notepad if you use Windows). It really is simple — see Lincoln Mullen’s “[Markdown: The Syntax You (Probably) Already Know](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295).”
+* Over at [The Programming Historian](http://programminghistorian.org/), Sarah Simpkin has provided an excellent guide: “[Getting Started with Markdown](http://programminghistorian.org/lessons/getting-started-with-markdown).” Those who’d like to delve deeper might want to check out Tenen and Wythoff’s “[Sustainable Authorship in Plain Text Using Pandoc and Markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
+* [Pandoc](http://pandoc.org/) is the file converter that will transform your plain text Markdown files to whatever format you need. The links above can help you get started with it.
+
+# News sources
+
+## English language
+
+* *[New York Times](https://www.nytimes.com)* (Saint Mary’s has a [group subscription](http://saintmarys.libguides.com/nytimes-domain-access) available.)
+* *[Wall Street Journal](https://www.wsj.com)* (Saint Mary’s has a [group subscription](http://saintmarys.libguides.com/wsj/home) available.)
+* *[Washington Post](http://washingtonpost.com)*
+* *[Times of London](http://www.thetimes.co.uk/)* (UK)
+* *[The Guardian](https://www.theguardian.com/us)* (UK)
+* *[Deutsche Welle](http://www.dw.com/en/top-stories/s-9097)* (Germany)
+
+## Resources in other languages
+
+* *[Die Zeit](http://www.zeit.de/index)* (Germany)
+* *[Süddeutsche Zeitung](http://www.sueddeutsche.de/)* (Germany)
+* *[El Tiempo](http://www.eltiempo.com/)* (Colombia)
+* *[El País](http://elpais.com/elpais/portada_america.html)* (Spain)
+* *[Le Monde](http://www.lemonde.fr/)* (France)

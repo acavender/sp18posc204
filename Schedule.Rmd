@@ -1,0 +1,89 @@
+---
+title: "Schedule"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+# Schedule
+
+## Week 1: January 15-19 (Introductions, Sophocles)
+- **Monday**: Getting acquainted with each other and the course
+- **Wednesday**: Discussion: What is political philosophy? What questions do we ask? What do we observe that occasions those questions?
+- **Friday**: Read *Antigone*. Come prepared with questions and/or observations. What do you find interesting about the text? What do you find puzzling? What questions does the drama raise for you?
+
+## Week 2: January 22-26 (Sophocles)
+- **Monday**: “Honig, Ismene’s Forced Choice.”
+- **Wednesday**: Continue with Honig.
+- **Friday**: Article reviews, annotations, and document design. Bring a computer or tablet to class, if possible.
+
+## Week 3: January 29-February 2 (Plato)
+- **Monday**: Plato, *Apology*
+- **Wednesday**: Plato, *Republic*, Book I
+- **Friday**: Plato, *Republic*, Book II
+
+## Week 4: February 5-9 (Plato)
+- **Monday**: Workshop for first essay
+- Wednesday: Plato, **Republic**, Book III
+- Friday: Plato, **Republic**, Book III
+
+## Week 5: February 12-16 (Plato, Aristotle)
+- **Monday**: Carmola, “Noble Lying: Justice and Intergenerational Tension in Plato’s *Republic*.”
+- **Wednesday**: Carmola, continued
+- **Friday**: Aristotle: *Politics*, Book I
+
+## Week 6: February 19-23 (Aristotle, Aquinas)
+- **Monday**: Aristotle: *Politics*, Book I
+- **Wednesday**: Winthrop: "Aristotle's *Politics*, Book I: A Reconsideration" 
+- **Friday**: Aquinas: *On Kingship*
+
+## Week 7: February 26-March 2 (Aquinas)
+- **Monday**: Aquinas, *Summa Theologiae* I-II, Q. 90-91
+- **Wednesday**: Aquinas, *Summa Theologiae* I-II, Q. 93, 94
+- **Friday**: Continue as needed with the *Summa*
+
+## Week 8: March 5-9 (Aquinas, midterm assessment)
+- **Monday**: Keys: "Aquinas's Two Pedagogies"
+- **Wednesday**: Catch up, review
+- **Friday**: Midterm assessment
+
+## Spring Break
+
+## Week 9: March 19-23 (Rousseau)
+- **Monday**: Review: Where we’ve been, where we’re going
+- **Wednesday**: Rousseau: *On the Social Contract*, Book I
+- **Friday**: No class; professor at off-campus meeting
+
+## Week 10: March 26-30 (Rousseau)
+- **Monday**: Rousseau:* On the Social Contract*, Book II
+- **Wednesday**: Rousseau: *On the Social Contract*, Book III
+- **Friday**: Good Friday
+
+## Week 11: April 2-6 (Rousseau, Marx)
+- **Monday**: Easter Monday
+- **Wednesday**: Rousseau: *On the Social Contract*, Book IV
+- **Friday**: No class; professor at off-campus meeting
+
+## Week 12: April 9-13 (Marx)
+- **Monday**: Schwartzberg, "Voting the General Will"
+- **Wednesday**: Marx: *The Communist Manifesto*
+- **Friday**: College Symposium
+
+## Week 13: April 16-20 (Marx, Havel)
+- Monday: Workshop for second essay
+- Wednesday: Marx: *The Communist Manifesto*
+- Friday: Boyer: "The Historical Background of the Communist Manifesto"
+
+## Week 14: April 23-27 (Havel)
+- **Monday**: Havel, *The Power of the Powerless* ([a copy](https://medium.com/@bruces/the-power-of-the-powerless-by-vaclav-havel-84b2b8d3a84a) is available in Bruce Sterling’s Medium feed)
+- **Wednesday**: Havel, *The Power of the Powerless* 
+- **Friday**: Havel, *The Power of the Powerless* 
+
+## Week 15: April 30-May 2
+- **Monday**: TBA
+- **Wednesday**: Catch up, review
+
+*The final assessment will be take-home.*

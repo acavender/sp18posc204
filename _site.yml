@@ -1,0 +1,19 @@
+name: "posc204s2018"
+output_dir: "."
+navbar:
+  title: "POSC 204"
+  left:
+    - text: "Description"
+      href: index.html
+    - text: "Readings"
+      href: Readings.html
+    - text: "Assignments_and_grading"
+      href: Assignments_and_grading.html
+    - text: "Schedule"
+      href: Schedule.html
+    - text: "Policies"
+      href: Policies.html
+    - text: "Resources"
+      href: Resources.html
+    - text: "Updates"
+      href: Updates.html

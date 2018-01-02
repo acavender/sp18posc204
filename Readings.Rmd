@@ -1,0 +1,39 @@
+---
+title: "Readings"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+# Primary readings
+
+The following anthology is available in the bookstore:
+
+Morgan, Michael L., ed. 2011. *Classics of Moral and Political Theory*. 5 edition. Hackett Publishing Company, Inc.
+
+This anthology contains all of our primary readings with the exception of Havel’s *The Power of the Powerless* (which is listed along with the additional readings, below). I’ve made the anthology available as a convenience to you, but you need not purchase it if you have other access to the following works:
+
+* Sophocles, *Antigone*
+* Plato, *Apology*
+* Plato, *Republic* (Books I-III)
+* Aristotle, *Politics* (Book I)
+* Aquinas, *On Kingship* (Book I, Ch. 1)
+* Aquinas,*Summa Theologiae* (I-II, Qs. 90, 91, 93, 94)
+* Rousseau, *On the Social Contract*
+* Marx, *Communist Manifesto*
+
+
+# Additional readings
+
+In addition to the principal works above, we’ll also be reading the following works of scholarship on the primary works we read. All are available through Google Scholar or through our library’s subscribed databases.
+
+* Boyer, George R. 1998. “The Historical Background of the Communist Manifesto.” *The Journal of Economic Perspectives* 12 (4): 151–74.
+* Carmola, Kateri. 2003. “Noble Lying: Justice and Intergenerational Tension in Plato’s Republic.” *Political Theory* 31 (1): 39–62.
+* Havel, Vaclav. 1978. “The Power of the Powerless.” *Living in Truth*. London: Faber and Faber. (An online copy is available from [https://medium.com/@bruces/the-power-of-the-powerless-by-vaclav-havel-84b2b8d3a84a.](https://medium.com/@bruces/the-power-of-the-powerless-by-vaclav-havel-84b2b8d3a84a))
+* Honig, Bonnie. 2011. “Ismene’s Forced Choice: Sacrifice and Sorority in Sophocles' Antigone.” *Arethusa* 44 (1): 29–68.
+* Keys, Mary M. 2001. “Aquinas’s Two Pedagogies: A Reconsideration of the Relation Between Law and Moral Virtue.” *American Journal of Political Science* 45 (3): 519–31.
+* Schwartzberg, Melissa. 2008. “Voting the General Will: Rousseau on Decision Rules.” *Political Theory* 36 (3): 403–23.
+* Winthrop, Delba. 2008. “Aristotle’s Politics , Book I: A Reconsideration.” Perspectives on Political Science 37 (4): 189–99.

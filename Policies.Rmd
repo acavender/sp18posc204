@@ -1,0 +1,51 @@
+---
+title: "Policies"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+# Accessibility/Students with disabilities
+
+I do my best to make all materials in this course accessible to all students. If you have trouble accessing any course materials, please let me know as soon as possible so we can work together to resolve the situation.
+
+If you have had documented academic adjustments (accommodations) in the past, or think you may be eligible for them presently, you should contact Iris Giamo ([igiamo@saintmarys.edu](mailto:igiamo@saintmarys.edu "Iris Giamo's email address")) or Jennifer Wright ([jwright@saintmarys.edu](mailto:jwright@saintmarys.edu "Jennifer Wright's email address")) in the Disabilities Resource Office (DRO), Madeleva 103C, to make an appointment to address this matter. The DRO is responsible for coordinating academic accommodations for students each semester and will issue a letter of documentation to your faculty for the current semester. Requests for such accommodations will not be honored without this letter from the DRO. Securing reasonable accommodations requires timely action on the part of the student. Please contact the staff in the DRO for an appointment to discuss how we will implement your accommodations.
+
+# Academic honesty
+
+Academic inquiry always involves conversation. Sometimes that conversation is verbal; at other times, it takes written form. Whatever form it takes, academic conversation at its best enables us all to learn from each other. The proper citation of one’s sources is an important way of engaging conversation partners who aren’t physically present. Plagiarism makes use of our conversation partners’ ideas without acknowledging their contribution; it robs them of their voice.
+
+It is this failure to acknowledge and involve conversation partners that makes plagiarism the most serious academic offense a student or faculty member can commit. It is the passing off of another’s ideas or words as one’s own; in effect, it is theft. It also undercuts the trust that is essential in any community of learning. The plagiarist shows disrespect not only for those from whom she steals and for those to whom she presents the plagiarized work, but also for herself. She is, in effect, saying that she is incapable of doing her own work, or that she is too lazy to acknowledge others involved in the conversation.
+
+For all of these reasons, Saint Mary’s College maintains an academic honesty policy, which can be found on the [Academic Affairs and First Year Studies website](https://www.saintmarys.edu/portal/first-year/policies). Accordingly, I treat incidents of plagiarism very seriously. At minimum, a student whose work is discovered to be plagiarized will fail the assignment in question. Truly egregious or repeated instances of plagiarism may result in failure for the course, not just the assignment. In keeping with the College’s policy, I will report instances of plagiarism to Academic Affairs.
+
+We will be working together this semester to ensure that everyone in the class is aware of what plagiarism is and is familiar with how to document sources correctly. (Problems with citation style and/or formatting do not constitute plagiarism. I will point out such problems and help you correct them, but as long as, when you’ve borrowed words or ideas from someone else, you indicate that and point to the source from which you’ve borrowed, you have not plagiarized.) Both our own [Writing Center](https://www.saintmarys.edu/writing-center) and the [Purdue Online Writing Lab (OWL)](https://owl.english.purdue.edu) are excellent resources, and can provide you with assistance in developing your writing skills as well as assistance with proper documentation. If ever you are in doubt as to whether your paper contains plagiarized elements, please ask prior to submitting it. Given reasonable advance notice, I am always happy to go over a draft with you, and to answer any questions you might have about how to cite your sources properly. Never let the pressures of academia lead you into dishonesty. Character, self-respect, and the enjoyment of good conversation are far more important than what may seem more immediately obvious measures of success.
+
+# Technology in the classroom
+
+## Electronic devices
+
+I do not ordinarily police your gadget use in class, even when those gadgets aren’t needed for a specific class activity. They can, after all, be very useful for taking notes, looking up information related to the class discussion, and the like.
+
+I do, however, ask that you be courteous. Please be sure that your cell phone is set to *silent* (*not* vibrate, which can actually be quite loud, especially if the phone happens to be in the same bag as your books), and that your use of any devices does not become a distraction to yourself or others. (Bear in mind that anyone sitting near you can probably see what’s on your computer or tablet screen. Also, remember that multitasking while maintaining focus is *really* difficult. If you’re shopping or catching up on email, Twitter, or Facebook, you’re missing a lot of what’s going on in class.)
+
+I reserve the right to request that you put your device(s) away if I get the sense that you’re not paying attention or that you’re distracting those around you.
+
+## Email
+
+Email is the official means of communication at Saint Mary’s College, and all official communications from the College will be sent to your saintmarys.edu address. It is therefore essential that you check that address on a regular basis (I would strongly recommend you check it daily during the work week). If you fail to do so, you may miss vital information.
+
+Please use your saintmarys.edu address for all communications regarding this course. (If you have other email addresses and would like to be able to check them all in one central location, please see me. I can make a few suggestions about ways to do that.)
+
+# Attendance
+
+Regular attendance is expected. When you miss class you cheat yourself out of both the material presented and your colleagues’ contributions to class discussion. You also cheat your colleagues of *your* contributions to the class. Accordingly, excessive absences (for whatever reason) may result in a lowering of your final grade for the course.
+
+# Class cancellation
+
+If I need to cancel a class due to illness or some other serious reason, I will make every effort to notify you prior to class time. I will email the class; I will also arrange to have a notice of the cancellation posted outside the classroom, if possible.
+
+If I am not in the classroom and you have received no notice of a cancellation, please wait ten minutes before concluding that something has happened and I’ve been unable to inform you. Please do not wait beyond ten minutes.

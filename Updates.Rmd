@@ -1,0 +1,11 @@
+---
+title: "Updates"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+Updates and announcements about the course will be posted here.

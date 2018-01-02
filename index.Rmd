@@ -1,0 +1,79 @@
+---
+title: "Political Thought"
+subtitle: "Spring 2018"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+---
+
+![Raphael, The School of Athens](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sanzio_01.jpg/619px-Sanzio_01.jpg)
+
+# Course description and goals
+
+This course is designed to further your ability to think critically about fundamental issues in political thought. We will examine a wide variety of texts, from the works of Sophocles, Plato, and Aristotle to the works of Niccolò Machiavelli, Jean-Jacques Rousseau, and Václav Havel. As we explore these works, we will consider such themes as the nature of human beings (and what is good for them), the nature of law and justice, freedom, the relationship between law and conscience, and appropriate forms of government. Throughout the semester, we'll make use of some of the scholarly literature on the major works we read.
+
+In addition to gaining a working familiarity with key texts in the Western tradition of political philosophy, students will have the opportunity to develop the following skills throughout the semester:
+
+* asking good questions about the texts we read
+* generating discussion questions and leading class discussions about those texts
+* writing clear, thoughtful essays exploring various aspects of our readings
+* locating and evaluating sources to increase understanding of our texts
+* making use of appropriate tools (e.g. tools for creating PDFs, [Paperpile](https://paperpile.com/), [Zotero](http://zotero.org/), [Mendeley](https://www.mendeley.com/), research databases) for research, writing, and communication.[^1]
+
+*This course fulfills Sophia LO1 outcomes for Philosophical Worldviews:*
+
+* A Saint Mary’s student identifies and understands significant features of and developments in philosophical traditions concerning the nature of knowledge, the nature of reality, and the nature of the good.
+	* A Saint Mary’s student analyzes and compares philosophical views.
+
+Students fulfill these outcomes through close reading of, discussion of, and writing about the texts we read during the course of the semester. As we move through these texts, it will become clear that Plato, Aristotle, and Aquinas (for example) have views about the nature of human beings and the limits of human knowledge that differ significantly from those of Machiavelli or Rousseau. Together we will explore the underlying assumptions that, at least in part, to these differing views.
+
+* A Saint Mary’s student thinks philosophically about her interactions in the world.
+* A Saint Mary’s student raises questions on philosophical issues pertaining to the development of her own worldview.
+
+Students fulfill these outcomes by actively engaging with the texts we read together. They have the opportunity to do this in a formal way through writing assignments which encourage them to consider their own views on important issues in political philosophy in light of the readings.
+
+*For those enrolled in the CTS section, this course also fulfills the Sophia LO2 outcomes for the Critical Thinking Seminar:*
+
+* A Saint Mary's student evaluates and formulates claims about issues, ideas, artifacts, or events using critical thinking methods that are appropriate to the discipline of the seminar.
+
+Students fulfill this outcome through careful reading and discussion of the texts we read, and by thoughtfully engaging those texts in the writing assignments.
+
+* A Saint Mary's student demonstrates basic information literacy skills as listed in the information literacy sub-outcomes. (She is able to determine how much and what kind of information she needs, locate that information, evaluate its suitability, and use it to accomplish her purpose.)
+
+Students fulfill this outcome by completing the annotated bibliography and article review assignments.
+
+* A Saint Mary's student demonstrates effective oral communication in presentational or interactive contexts.
+
+Students fulfill this outcome by preparing questions for and leading off class discussion.
+
+* A Saint Mary's student develops and organizes written arguments.
+
+Students fulfill this outcome by completing the essay assignments and the article review.
+
+# When and where we meet
+
+Section 1 meets from 11:00-11:50 on Mondays, Wednesdays, and Fridays.
+
+Section 2 (the CTS section) meets from 9:00-9:50 on Mondays, Wednesdays, and Fridays.
+
+Both sections meet in Spes Unica 235.
+
+# Contact  information and office hours
+
+The most reliable way to contact me is by email at [acavende@saintmarys.edu](mailto:acavende@saintmarys.edu "Professor's email address"). I check that account at least twice each day during usual business hours, Monday through Friday. Please note that I do not check email on Sundays — ever. I occasionally check on Saturdays, but not regularly. With those caveats, I make every effort to respond to within 48 hours. If it’s been longer than that and you haven’t heard back, please don’t hesitate to check with me to be sure I received your message.
+
+I’m also reachable by phone. My office phone is 574-284-4430.
+
+My usual office hours are
+
+* 10:00-11:00 MWF
+* 1:00-2:00 MW
+
+My office is Spes Unica 263.
+
+If those times don’t work for you, I’m very happy to make alternate arrangements. Feel free to stop by the office to see if I’m in and it’s a good time; if it isn’t, we’ll arrange a time that works for both of us. Alternately, bring your calendar to class and we’ll set something up. If you use Google Calendar, my free/busy times are visible to everyone at Saint Mary’s, and you’re welcome to make an appointment on your calendar and invite me to the meeting.
+
+[^1]:	Those interested in why I ask students to make use of digital tools in what is in many ways a very traditional course might wish to read this [post](http://chronicle.com/blogs/profhacker/why-teach-tech-in-political-science/22713) from *[ProfHacker](http://chronicle.com/blogs/profhacker/)*.
