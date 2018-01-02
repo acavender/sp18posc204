@@ -27,8 +27,8 @@ output:
 
 ## Week 4: February 5-9 (Plato)
 - **Monday**: Workshop for first essay
-- Wednesday: Plato, **Republic**, Book III
-- Friday: Plato, **Republic**, Book III
+- Wednesday: Plato, *Republic*, Book III
+- Friday: Plato, *Republic*, Book III
 
 ## Week 5: February 12-16 (Plato, Aristotle)
 - **Monday**: Carmola, “Noble Lying: Justice and Intergenerational Tension in Plato’s *Republic*.”
