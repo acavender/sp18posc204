@@ -7,8 +7,8 @@ navbar:
       href: index.html
     - text: "Readings"
       href: Readings.html
-    - text: "Assignments and grading"
-      href: "Assignments and grading.html"
+    - text: "Assignments"
+      href: "Assignments.html"
     - text: "Schedule"
       href: Schedule.html
     - text: "Policies"
