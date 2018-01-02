@@ -8,7 +8,7 @@ navbar:
     - text: "Readings"
       href: Readings.html
     - text: "Assignments"
-      href: "Assignments.html"
+      href: Assignments.html
     - text: "Schedule"
       href: Schedule.html
     - text: "Policies"

@@ -12,6 +12,8 @@ output:
 
 This course has midterm and final assessments, each of which is worth 150 points.
 
+##Assignments
+
 Additionally, students will complete the following assignments designed to help them achieve the course goals:
 
 * Course survey and initial PDF submission: 25 points
@@ -21,7 +23,11 @@ Additionally, students will complete the following assignments designed to help 
 * Annotated bibliography: 125 points
 * Discussion question submission and leadership: 100 points
 
-That makes for a total of 1000 points available for the semester. Final grades will be calculated as follows:
+That makes for a total of 1000 points available for the semester. 
+
+##Grading
+
+Final grades will be calculated as follows:
 
 * A = 930 – 1000
 *  A- = 900 – 929
