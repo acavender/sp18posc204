@@ -8,8 +8,6 @@ output:
     theme: cosmo
 ---
 
-Updates and announcements about the course will be posted here.
-
 ##January 4
 
 I do not provide updates on grades during the semester. You can always tell where you are by totaling the points you've received on returned work. To see what your total percentage is, simply divide the total number of points you received for the assignments by the total number of points that were possible, then multiply by 100.
