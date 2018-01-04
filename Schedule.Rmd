@@ -17,7 +17,7 @@ output:
 
 ## Week 2: January 22-26 (Sophocles)
 - **Monday**: “Honig, Ismene’s Forced Choice.”
-- **Wednesday**: Continue with Honig.
+- **Wednesday**: Continue with Honig. **Course survey and PDF submission due.**
 - **Friday**: Article reviews, annotations, and document design. Bring a computer or tablet to class, if possible.
 
 ## Week 3: January 29-February 2 (Plato)
@@ -31,7 +31,7 @@ output:
 - Friday: Plato, *Republic*, Book III
 
 ## Week 5: February 12-16 (Plato, Aristotle)
-- **Monday**: Carmola, “Noble Lying: Justice and Intergenerational Tension in Plato’s *Republic*.”
+- **Monday**: Carmola, “Noble Lying: Justice and Intergenerational Tension in Plato’s *Republic*.” **Essay 1 due.**
 - **Wednesday**: Carmola, continued
 - **Friday**: Aristotle: *Politics*, Book I
 
@@ -41,7 +41,7 @@ output:
 - **Friday**: Aquinas: *On Kingship*
 
 ## Week 7: February 26-March 2 (Aquinas)
-- **Monday**: Aquinas, *Summa Theologiae* I-II, Q. 90-91
+- **Monday**: Aquinas, *Summa Theologiae* I-II, Q. 90-91. **Article review due.**
 - **Wednesday**: Aquinas, *Summa Theologiae* I-II, Q. 93, 94
 - **Friday**: Continue as needed with the *Summa*
 
@@ -68,7 +68,7 @@ output:
 - **Friday**: No class; professor at off-campus meeting
 
 ## Week 12: April 9-13 (Marx)
-- **Monday**: Schwartzberg, "Voting the General Will"
+- **Monday**: Schwartzberg, "Voting the General Will." **Annotated bibliography due.**
 - **Wednesday**: Marx: *The Communist Manifesto*
 - **Friday**: College Symposium
 
@@ -78,7 +78,7 @@ output:
 - Friday: Boyer: "The Historical Background of the Communist Manifesto"
 
 ## Week 14: April 23-27 (Havel)
-- **Monday**: Havel, *The Power of the Powerless* ([a copy](https://medium.com/@bruces/the-power-of-the-powerless-by-vaclav-havel-84b2b8d3a84a) is available in Bruce Sterling’s Medium feed)
+- **Monday**: Havel, *The Power of the Powerless* ([a copy](https://medium.com/@bruces/the-power-of-the-powerless-by-vaclav-havel-84b2b8d3a84a) is available in Bruce Sterling’s Medium feed). **Essay 2 due.**
 - **Wednesday**: Havel, *The Power of the Powerless* 
 - **Friday**: Havel, *The Power of the Powerless* 
 
