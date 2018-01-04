@@ -9,3 +9,20 @@ output:
 ---
 
 Updates and announcements about the course will be posted here.
+
+##January 4
+
+I do not provide updates on grades during the semester. You can always tell where you are by totaling the points you've received on returned work. To see what your total percentage is, simply divide the total number of points you received for the assignments by the total number of points that were possible, then multiply by 100.
+
+To determine how many points you still need to earn your desired grade for the semester, subtract the point you've earned thus far from the number of points needed to earn the desired grade.
+
+You can track your progress, if you like, with the [this spreadsheet](https://docs.google.com/spreadsheets/d/1Fso19ijWY5Njd0YWRKl_ZZY0bp5AkHnWU8G0MKhJZ9Y/edit?usp=sharing). Just open the link, then save a copy in your own Google account.
+
+##January 2
+
+For those who prefer syllabus formats other than HTML, there are two addtional copies of the syllabus below:
+
+* The [EPUB version](https://drive.google.com/file/d/1w-353pOLWcYahpJ6C2eu0bAxnkzO_cWz/view?usp=sharing) works with any e-book reader or app (e.g. Nook, Kobo, iBooks) that can read the EPUB format.
+* The [PDF version](https://drive.google.com/file/d/1a-ytbYytZiwn6KbNhWySHxakwbnSw6fi/view?usp=sharing) is suitable for printing or for reading on any device that can handle PDFs.
+
+The only thing these versions lack is the updates page. For that, you'll need to consult this website directly.
