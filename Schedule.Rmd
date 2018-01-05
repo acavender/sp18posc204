@@ -86,4 +86,5 @@ output:
 - **Monday**: TBA
 - **Wednesday**: Catch up, review
 
-*The final assessment will be take-home.*
+##Final assessment
+The final assessment will be take-home. It will be due at the end of the scheduled final exam period. For the 9:00 section, that's **12:30 pm on Friday, May 11**. For the 11:00 section, that's **12:30 pm on Monday, May 7**.
