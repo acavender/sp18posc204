@@ -8,6 +8,10 @@ output:
     theme: cosmo
 ---
 
+##January 16
+
+The [course survey](https://goo.gl/forms/pjF7VL0VCtLUVqvU2) (which also requests that you submit a PDF) is now available. It is due by **5 pm on Wednesday, January 24.**
+
 ##January 4
 
 I do not provide updates on grades during the semester. You can always tell where you are by totaling the points you've received on returned work. To see what your total percentage is, simply divide the total number of points you received for the assignments by the total number of points that were possible, then multiply by 100.
